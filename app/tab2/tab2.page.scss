@@ -1,0 +1,27 @@
+.home-card ion-title{
+    color: red;
+}
+.background ion-content{
+    background: blue;
+}
+.welcome-card ion-card-content{
+    max-height: 35vh;
+    overflow: hidden;
+    background: black;
+    color: white;
+    text-align: center;
+    h4{
+        color: red;
+        text-align: left;
+    }
+  }
+.none ion-list-header{
+    max-height: 35vh;
+    overflow: hidden;
+    background: black;
+    color: white;
+    text-align: center;
+    ion-card-content{
+        color:red;
+    }
+}
